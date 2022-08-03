@@ -1,0 +1,27 @@
+.App{
+  text-align: center;
+}
+
+
+.SearchSide{
+  float: left;
+  width: 50%;
+  height: 100%;
+  background-color: #41414100;
+}
+.QueueSide{
+  float: right;
+  width: 50%;
+  height: 100%;
+  background-color: #41414100;
+}
+
+.result{
+
+  background-color: hsl(0, 0%, 38%);
+  width: 50%;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 10px;
+
+}
